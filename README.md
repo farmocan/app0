@@ -2,4 +2,4 @@
 аналитика вопросов курсов на курсере и нпоо
 
 shiny dashboard
-https://ces-hse.shinyapps.io/app0_hm_test/
+https://ces-hse.shinyapps.io/app0_v1/
